@@ -1,0 +1,4 @@
+*.exe
+*.o
+mp4_parse
+.vscode
